@@ -1,0 +1,50 @@
+{
+  "object": "pcgi_intelligence_token_manifest",
+  "version": "1.0",
+  "tokens": [
+    {
+      "id": "IT-DOT-UAS-SECURITY-TEMPLATE-001",
+      "version": "1.0",
+      "path": "objects/IT-DOT-UAS-SECURITY-TEMPLATE-001/1.0/",
+      "purpose": "Template for secure handling of bridge-inspection sensor data.",
+      "hashtags": [
+        "#PCGI",
+        "#Template",
+        "#UAS",
+        "#BridgeInspection",
+        "#DataProtection"
+      ],
+      "example": false
+    },
+    {
+      "id": "IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001",
+      "version": "1.0",
+      "path": "objects/IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001/1.0/",
+      "purpose": "Illustrative NYSDOT example for secure handling of bridge-inspection sensor data (non-affiliated).",
+      "hashtags": [
+        "#PCGI",
+        "#NYSDOT",
+        "#BridgeInspection",
+        "#UAS",
+        "#DataSovereignty",
+        "#Example"
+      ],
+      "example": true,
+      "disclaimer": "EXAMPLE ONLY \u2014 no affiliation with NYSDOT."
+    },
+    {
+      "id": "IT-VENDOR-UAS-DATA-SECURITY-001",
+      "version": "1.0",
+      "path": "objects/IT-VENDOR-UAS-DATA-SECURITY-001/1.0/",
+      "purpose": "Vendor-compliance requirements token to prevent bridge-inspection data from reaching foreign data centers.",
+      "hashtags": [
+        "#PCGI",
+        "#Vendor",
+        "#UAS",
+        "#DataSecurity",
+        "#ContractCompliance"
+      ],
+      "example": true
+    }
+  ]
+}

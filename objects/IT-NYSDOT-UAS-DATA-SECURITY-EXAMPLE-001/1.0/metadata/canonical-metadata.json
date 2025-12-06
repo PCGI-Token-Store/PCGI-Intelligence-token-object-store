@@ -1,0 +1,9 @@
+{
+  "it_id": "IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001",
+  "version": "1.0",
+  "issuer": "Palisades Consulting Group, Inc.",
+  "institution_referenced": "New York State Department of Transportation (NYSDOT)",
+  "disclaimers": {
+    "non_affiliation": "NYSDOT is referenced solely as a hypothetical example. NYSDOT has no affiliation with, does not endorse, and did not participate in the creation of this Intelligence Token."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "object": "pcgi_api_manifest",
+  "version": "1.0",
+  "search": {
+    "by_hashtag": {
+      "#NYSDOT": [
+        "IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001"
+      ],
+      "#Vendor": [
+        "IT-VENDOR-UAS-DATA-SECURITY-001"
+      ],
+      "#Template": [
+        "IT-DOT-UAS-SECURITY-TEMPLATE-001"
+      ]
+    },
+    "by_id": {
+      "IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001": "objects/IT-NYSDOT-UAS-DATA-SECURITY-EXAMPLE-001/1.0/",
+      "IT-VENDOR-UAS-DATA-SECURITY-001": "objects/IT-VENDOR-UAS-DATA-SECURITY-001/1.0/",
+      "IT-DOT-UAS-SECURITY-TEMPLATE-001": "objects/IT-DOT-UAS-SECURITY-TEMPLATE-001/1.0/"
+    }
+  }
+}
